@@ -2,7 +2,7 @@
 
 ## 作业
 
-![homework](https://imgchr.com/i/uGge29 "week1作业")
+![homework](https://imgchr.com/i/uGge29.png "week1作业")
 
 ## 我的操作过程
 > __1. 记录、收集数据__
