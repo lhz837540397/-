@@ -1,7 +1,7 @@
 # week1 作业
 
 ## 作业
-link[file:///C:/Users/83754/Documents/WeChat%20Files/lhz837540397/FileStorage/File/2019-09/空白（横排）%202.pdf]
+link [file:///C:/Users/83754/Documents/WeChat%20Files/lhz837540397/FileStorage/File/2019-09/空白（横排）%202.pdf]
 
 ## 操作过程
 > __1. 记录、收集数据__
