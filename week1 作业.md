@@ -2,7 +2,7 @@
 
 ## 作业
 
-![homework](D:\【大学课程】\大三\可视化\week1作业.png)
+![homework](https://imgchr.com/i/uGge29 "week1作业")
 
 ## 我的操作过程
 > __1. 记录、收集数据__
