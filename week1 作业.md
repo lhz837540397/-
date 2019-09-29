@@ -2,7 +2,7 @@
 
 ## 作业
 
-![homework](https://imgchr.com/i/uGge29)
+![homework](https://github.com/lhz837540397/-/blob/master/week1%E4%BD%9C%E4%B8%9A.png)
 
 ## 我的操作过程
 > __1. 记录、收集数据__
