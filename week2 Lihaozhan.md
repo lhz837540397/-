@@ -3,4 +3,4 @@
 ### 关于公共数据开放的条例或法规
 
 ### 政府开放数据平台
-> __上海市公共数据开放平台（试运行）__ [link][https://trial.data.sh.gov.cn]
+> __上海市公共数据开放平台（试运行）__ [https://trial.data.sh.gov.cn]
