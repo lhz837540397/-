@@ -6,7 +6,7 @@ __2009-2017年中国各直辖市的离婚率统计__
 >__使用的工具：__
 
 * __Excel:__
-![excel](https://github.com/lhz837540397/homework/blob/master/excel.png)
+![excel](https://github.com/lhz837540397/homework/blob/master/excel.jpg)
 
 * __图表秀：__
 ![tubiaoxiu](https://github.com/lhz837540397/homework/blob/master/%E5%9B%BE%E8%A1%A8%E7%A7%80.png)
