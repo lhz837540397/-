@@ -20,3 +20,4 @@
 > __数据来源：__
 
 &emsp;&emsp;《2019年中国再生资源回收行业发展报告》
+[http://images.mofcom.gov.cn/ltfzs/201910/20191022135937291.pdf]
