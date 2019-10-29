@@ -7,4 +7,6 @@
 
 &emsp;&emsp;2018年我国主要再生资源类别回收量同比增长情况如图1所示。
 
-![picture1](https://www.tubiaoxiu.com/p.html?s=3d9dcb886194fb4d&isChart=true)
+![picture1](https://github.com/lhz837540397/homework/blob/master/picture1.jpg)
+
+![picture2](https://github.com/lhz837540397/homework/blob/master/picture2.jpg)
