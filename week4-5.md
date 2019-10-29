@@ -24,8 +24,8 @@
 
 > __参考资料:__
 
-《2019年中国再生资源回收行业发展报告》[http://images.mofcom.gov.cn/ltfzs/201910/20191022135937291.pdf]
-《2018年中国再生资源回收行业发展报告》[http://ltfzs.mofcom.gov.cn/article/ztzzn/an/201806/20180602757116.shtml]
-北极星环保网[http://mhuanbao.bjx.com.cn/mnews/20190703/990240.shtml]
+* 《2019年中国再生资源回收行业发展报告》[http://images.mofcom.gov.cn/ltfzs/201910/20191022135937291.pdf]
+* 《2018年中国再生资源回收行业发展报告》[http://ltfzs.mofcom.gov.cn/article/ztzzn/an/201806/20180602757116.shtml]
+* 北极星环保网[http://mhuanbao.bjx.com.cn/mnews/20190703/990240.shtml]
 
 &emsp;&emsp;
