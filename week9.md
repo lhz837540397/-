@@ -20,9 +20,9 @@
 
 p + geom_col(width = 0.7) 
 
-  + scale_y_continuous(breaks = seq(-10, 25, 5), limits = c(-10, 25)) 
++scale_y_continuous(breaks = seq(-10, 25, 5), limits = c(-10, 25)) 
 
-+ geom_text(aes(label = `growth-rate`), vjust = -0.5) 
++geom_text(aes(label = `growth-rate`), vjust = -0.5) 
 
 + ylab("同比增长率/%") + xlab(NULL) 
 
