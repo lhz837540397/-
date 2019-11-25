@@ -16,7 +16,7 @@
 
 ![remake2](https://github.com/lhz837540397/homework/blob/master/remake2.jpeg)
 
-> __复刻图1的实现代码__  
+> ### __复刻图1的实现代码__  
 
 library(readxl)
 
@@ -46,7 +46,7 @@ p + geom_col(width = 0.7)
 
 +theme(axis.line.x = element_blank(), panel.background = element_blank(), panel.grid.major.y = element_line(color = "#40828a",size = 0.5))
 
-> __复刻图2的实现代码__
+> ### __复刻图2的实现代码__
 
 r <- read_excel("waste paper.xlsx")
 
